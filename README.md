@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Josebert2001
-- 👀 I’m interested in Software Programming and Website Development
-- 🌱 I’m currently learning Software Programming and Website Development
-- 💞️ I’m looking to collaborate with Softwares Programmers and Websites Developer
+👋 Hi, I’m @Josebert2001 (Sunday Robert)
+
+👨‍💻 I’m a Software Engineer & Cybersecurity Student passionate about building scalable software, secure systems, and modern web applications.
+
+🌱 I’m currently improving my skills in:
+- Software Programming  
+- Web Development (Frontend & Backend)  
+- Cybersecurity & Secure
 - 📫 How to reach me: Robertsunday333@gmail.com
 
 <!---
